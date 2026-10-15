@@ -62,28 +62,35 @@ dasar.<br>
 
 #### 1. Membuat Tabel Data Mahasiswa
 <img src="https://github.com/aramli/Lab2Web/raw/main/Praktikum2/2.png" width="300"/>
-<br>Penjelasan: Di sini kita bikin tabel sederhana untuk menampilkan data mahasiswa, misalnya NIM, nama, dan prodi.
+<br>Penjelasan: Di sini kita bikin tabel sederhana untuk menampilkan data mahasiswa, misalnya NIM, nama, dan prodi.<br>
 #### 2. Mengembangkan Tabel dengan thead, tbody, dan tfoot
 <img src="https://github.com/aramli/Lab2Web/raw/main/Praktikum2/3.png" width="300"/><br>  
 <br>Penjelasan:  Bagian tabel dipisah jadi header (`thead`), isi (`tbody`), dan footer (`tfoot`) supaya lebih terstruktur dan mudah dibaca.
+<br>
 #### 3. Membuat Form Registrasi Mahasiswa
 <img src="https://github.com/aramli/Lab2Web/raw/main/Praktikum2/5.png" width="300"/><br>
 <br>Penjelasan: Form ini dipakai untuk input data mahasiswa baru, misalnya nama, email, dan password.
+<br>
 #### 4. Membuat Radio button dan checkbox
 <img src="https://github.com/aramli/Lab2Web/raw/main/Praktikum2/6.png" width="300"/>
 <br>Penjelasan: Radio button digunakan untuk pilihan tunggal (contoh: jenis kelamin), sedangkan checkbox untuk pilihan ganda (contoh: keahlian).
+<br>
 #### 5. Select dan Textarea
 <img src="https://github.com/aramli/Lab2Web/raw/main/Praktikum2/7.png" width="300"/>
 <br>Penjelasan: Elemen `select` dipakai untuk pilihan dropdown (contoh: jurusan), sedangkan `textarea` untuk input teks panjang (contoh: alamat).
+<br>
 #### 6. Validasi Form Dasar
 <img src="https://github.com/aramli/Lab2Web/raw/main/Praktikum2/8.2.png" width="300"/>
 <br>Penjelasan:  Validasi memastikan input sesuai aturan, misalnya field wajib diisi (`required`) atau panjang minimal karakter (`minlength`).
+<br>
 #### 7. Membuat Halaman Semantic HTML
 <img src="https://github.com/aramli/Lab2Web/raw/main/Praktikum2/8.png" width="300"/> 
 <br>Penjelasan: Elemen semantic seperti `header` , `nav` , `main` , `section` , dan `footer` dipakai untuk memberi struktur dan makna pada halaman.
+<br>
 #### 8. Menambahkan Multimedia
 <img src="https://github.com/aramli/Lab2Web/raw/main/Praktikum2/9.png" width="300"/> 
 <br>Penjelasan: Elemen `audio` dan `video` digunakan untuk menampilkan media suara atau video langsung di halaman web.
+<br>
 #### 9. Proyek Mini — Form Biodata Mahasiswa
 <img src="https://github.com/aramli/Lab2Web/raw/main/Praktikum2/11.png" width="300"/>  
 <img src="https://github.com/aramli/Lab2Web/raw/main/Praktikum2/12.png" width="300"/>  
