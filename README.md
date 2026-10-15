@@ -62,37 +62,37 @@ dasar.<br>
 
 #### 1. Membuat Tabel Data Mahasiswa
 <img src="https://github.com/aramli/Lab2Web/raw/main/Praktikum2/1.png" width="300"/>
-**Penjelasan:** Di sini kita bikin tabel sederhana untuk menampilkan data mahasiswa, misalnya NIM, nama, dan jurusan.
+<br>Penjelasan: Di sini kita bikin tabel sederhana untuk menampilkan data mahasiswa, misalnya NIM, nama, dan jurusan.
 
 #### 2. Mengembangkan Tabel dengan thead, tbody, dan tfoot
 <img src="https://github.com/aramli/Lab2Web/raw/main/Praktikum2/2.png" width="300"/><br>  
-**Penjelasan:** Bagian tabel dipisah jadi header (`thead`), isi (`tbody`), dan footer (`tfoot`) supaya lebih terstruktur dan mudah dibaca.
+<br>Penjelasan:  Bagian tabel dipisah jadi header (`thead`), isi (`tbody`), dan footer (`tfoot`) supaya lebih terstruktur dan mudah dibaca.
 
 #### 3. Membuat Form Registrasi Mahasiswa
 <img src="https://github.com/aramli/Lab2Web/raw/main/Praktikum2/3.png" width="300"/><br>
-**Penjelasan:** Form ini dipakai untuk input data mahasiswa baru, misalnya nama, NIM, email, dan password.
+<br>Penjelasan: Form ini dipakai untuk input data mahasiswa baru, misalnya nama, NIM, email, dan password.
 
 #### 4. Membuat Form Registrasi Mahasiswa
 <img src="https://github.com/aramli/Lab2Web/raw/main/Praktikum2/4.png" width="300"/>
-**Penjelasan:** Form ini dipakai untuk input data mahasiswa baru, misalnya nama, NIM, email, dan password.
+<br>Penjelasan:  Form ini dipakai untuk input data mahasiswa baru, misalnya nama, NIM, email, dan password.
 
 #### 5. Select dan Textarea
 <img src="https://github.com/aramli/Lab2Web/raw/main/Praktikum2/4.png" width="300"/>
-**Penjelasan:** Elemen `select` dipakai untuk pilihan dropdown (contoh: jurusan), sedangkan `textarea` untuk input teks panjang (contoh: alamat).
+<br>Penjelasan: Elemen `select` dipakai untuk pilihan dropdown (contoh: jurusan), sedangkan `textarea` untuk input teks panjang (contoh: alamat).
 
 #### 6. Validasi Form Dasar
 <img src="https://github.com/aramli/Lab2Web/raw/main/Praktikum2/6.png" width="300"/>
-**Penjelasan:** Validasi memastikan input sesuai aturan, misalnya field wajib diisi (`required`) atau panjang minimal karakter (`minlength`).
+<br>Penjelasan:  Validasi memastikan input sesuai aturan, misalnya field wajib diisi (`required`) atau panjang minimal karakter (`minlength`).
 
 #### 7. Membuat Halaman Semantic HTML
 <img src="https://github.com/aramli/Lab2Web/raw/main/Praktikum2/7.png" width="300"/>
 <img src="https://github.com/aramli/Lab2Web/raw/main/Praktikum2/8.png" width="300"/> 
-**Penjelasan:** Elemen semantic seperti `<header>`, `<nav>`, `<main>`, `<section>`, dan `<footer>` dipakai untuk memberi struktur dan makna pada halaman.
+<br>Penjelasan:  Elemen semantic seperti `<header>`, `<nav>`, `<main>`, `<section>`, dan `<footer>` dipakai untuk memberi struktur dan makna pada halaman.
 
 #### 8. Menambahkan Multimedia
 <img src="https://github.com/aramli/Lab2Web/raw/main/Praktikum2/9.png" width="300"/><br>  
-**Penjelasan:** Elemen `<audio>` dan `<video>` digunakan untuk menampilkan media suara atau video langsung di halaman web.
+<br>Penjelasan: Elemen `<audio>` dan `<video>` digunakan untuk menampilkan media suara atau video langsung di halaman web.
 
 #### 9. Proyek Mini — Form Biodata Mahasiswa
 <img src="https://github.com/aramli/Lab2Web/raw/main/Praktikum2/10.png" width="300"/><br>  
-**Penjelasan:** Elemen `<audio>` dan `<video>` digunakan untuk menampilkan media suara atau video langsung di halaman web.
+<br>Penjelasan: Elemen `<audio>` dan `<video>` digunakan untuk menampilkan media suara atau video langsung di halaman web.
