@@ -62,7 +62,7 @@ dasar.<br>
 
 #### 1. Membuat Tabel Data Mahasiswa
 <img src="https://github.com/aramli/Lab2Web/raw/main/Praktikum2/2.png" width="300"/>
-<br>Penjelasan: Di sini kita bikin tabel sederhana untuk menampilkan data mahasiswa, misalnya NIM, nama, dan jurusan.
+<br>Penjelasan: Di sini kita bikin tabel sederhana untuk menampilkan data mahasiswa, misalnya NIM, nama, dan prodi.
 
 #### 2. Mengembangkan Tabel dengan thead, tbody, dan tfoot
 <img src="https://github.com/aramli/Lab2Web/raw/main/Praktikum2/3.png" width="300"/><br>  
@@ -70,7 +70,7 @@ dasar.<br>
 
 #### 3. Membuat Form Registrasi Mahasiswa
 <img src="https://github.com/aramli/Lab2Web/raw/main/Praktikum2/5.png" width="300"/><br>
-<br>Penjelasan: Form ini dipakai untuk input data mahasiswa baru, misalnya nama, NIM, email, dan password.
+<br>Penjelasan: Form ini dipakai untuk input data mahasiswa baru, misalnya nama, email, dan password.
 
 #### 4. Membuat Radio button dan checkbox
 <img src="https://github.com/aramli/Lab2Web/raw/main/Praktikum2/6.png" width="300"/>
@@ -86,7 +86,7 @@ dasar.<br>
 
 #### 7. Membuat Halaman Semantic HTML
 <img src="https://github.com/aramli/Lab2Web/raw/main/Praktikum2/8.png" width="300"/> 
-<br>Penjelasan: Elemen semantic seperti `<header>` , `<nav>` , `<main>` , `<section>` , dan `<footer>` dipakai untuk memberi struktur dan makna pada halaman.
+<br>Penjelasan: Elemen semantic seperti `header` , `nav` , `main` , `section` , dan `footer` dipakai untuk memberi struktur dan makna pada halaman.
 
 #### 8. Menambahkan Multimedia
 <img src="https://github.com/aramli/Lab2Web/raw/main/Praktikum2/9.png" width="300"/> 
